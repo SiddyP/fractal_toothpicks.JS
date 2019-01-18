@@ -128,7 +128,7 @@ function addPicks(pick){
 }
 
 for (var l = 0; l < 295; l++) {
-	//Add picks
+	//Add picks to screen
 	addPicks(picks[l])
 
 	forbidden_coordsV = forbidden_coords(coordsV1,coordsV2)
