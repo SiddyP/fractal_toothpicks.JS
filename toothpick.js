@@ -127,7 +127,7 @@ function addPicks(pick){
 	}
 }
 
-for (var l = 0; l < 195; l++) {
+for (var l = 0; l < 295; l++) {
 	//Add picks
 	addPicks(picks[l])
 
