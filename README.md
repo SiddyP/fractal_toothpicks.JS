@@ -1,4 +1,7 @@
 # fractal_toothpick.JS
 
 
-# DEVELOPMENT
+# DEVELOPMENT commit 2
+
+
+
