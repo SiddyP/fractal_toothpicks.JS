@@ -1,7 +1,7 @@
 # fractal_toothpick.JS
 
 
-# DEVELOPMENT commit 2
+# dev_siddy
 
 
 
