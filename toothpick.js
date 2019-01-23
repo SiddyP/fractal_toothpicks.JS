@@ -127,7 +127,7 @@ function addPicks(pick){
 	}
 }
 
-for (var l = 0; l < 295; l++) {
+for (var l = 0; l < 301; l++) {
 	//Add picks to screen
 	addPicks(picks[l])
 
